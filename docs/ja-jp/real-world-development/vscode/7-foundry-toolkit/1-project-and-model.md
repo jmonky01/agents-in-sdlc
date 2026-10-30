@@ -45,7 +45,7 @@ Tailspin の支援者は、信頼できるおすすめを求めています。�
    Show me the open issue about a Backer Concierge assistant and summarize its acceptance criteria.
    ```
 
-6. Copilot が **Add a Backer Concierge assistant for catalog questions** を提示することを確認します。受け入れ基準では、根拠に基づく回答、資金調達額をでっち上げないこと、確認の質問を 1 つすること、アクセシビリティに対応した UI、エンドツーエンドのテストカバレッジが求められています。
+6. Copilot が **Add a Backer Concierge assistant for catalog questions** を提示することを確認します。受け入れ基準では、根拠に基づく回答、資金調達額をでっち上げないこと、確認の質問を 1 つすること、アクセシビリティに対応したユーザー インターフェイス (UI)、エンドツーエンドのテストカバレッジが求められています。
 
 ## カタログをエクスポートする
 
